@@ -1,0 +1,42 @@
+
+
+.nav-item {
+    font-weight: 600;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.timming {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+.nav-link :hover{
+    background-color: gold;
+    border-radius: 10px;
+}
+
+.section-heading h1 {
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.meal {
+    color: #cadb2a;
+}
+.section-heading {
+    margin: 30px 0 80px;
+    text-align: center;
+}
+.why1, .why2, .why3{
+    display: inline-flex;
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    box-shadow: 2px 4px 5px #cadb2a;
+}
+.h3 {
+    color: #cadb2a !important;
+}
